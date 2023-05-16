@@ -1,0 +1,5 @@
+node_modues/
+.vscode
+.idea
+.env
+.env.local
